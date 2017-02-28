@@ -1,0 +1,11 @@
+{
+  "name": "HelloSkyeng",
+  "version": "1.0.0",
+  "type": "extension",
+  "acceptableVersions": [
+    ">=4.0.0"
+  ],
+  "releaseDate": "2017-02-27",
+  "author": "Aleksey Derushev",
+  "description": "Solid extension with rich functionality"
+}

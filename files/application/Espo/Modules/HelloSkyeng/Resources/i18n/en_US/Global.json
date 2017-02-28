@@ -1,0 +1,11 @@
+{
+    "scopeNames": {
+        "SayHello": "Say Hello"
+    },
+    "scopeNamesPlural": {
+        "SayHello": "Say Hello"
+    },
+    "dashlets": {
+        "Requests": "Say Hello"
+    }
+}

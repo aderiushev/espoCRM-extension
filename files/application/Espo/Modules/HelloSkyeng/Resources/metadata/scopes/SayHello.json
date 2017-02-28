@@ -1,0 +1,12 @@
+{
+    "entity": true,
+    "layouts": true,
+    "tab": true,
+    "acl": true,
+    "customizable": true,
+    "type": "Base",
+    "module": "HelloSkyeng",
+    "object": true,
+    "isCustom": true,
+    "aclPortal": "recordAllOwnNo"
+}
